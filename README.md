@@ -1,4 +1,3 @@
-[![MasterHead](https://www.realdolmen.com/sites/default/files/blog/BlockChain-Animated-Proof.gif)]
 <h1 align="center">Hi 👋, I'm Gurpreet Singh Rana</h1>
 <h3 align="center">A passionate web3 Blockchain developer from India</h3>
 
